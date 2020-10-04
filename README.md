@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔧 I'm working with web on cloud ☁️
+- 🔧 I'm working on web & cloud☁️ techs 
 - 👯 I'm looking for a programming buddy
 - 📫 Reach me on my [Twitter](https://twitter.com/biswas_srijeet)
 - 😄 Pronouns - He/his
