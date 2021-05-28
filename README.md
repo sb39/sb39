@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### Also reach me on 
 
+<div style="background-color:white;">
 <a href="https://twitter.com/biswas_srijeet"><span><img height="30" alt="twitter_freepik" src="https://user-images.githubusercontent.com/28492382/95009432-abcd5900-063f-11eb-9791-ac70904e82c2.png" />&nbsp;</span></a>
 <a href="https://facebook.com/srijeet.b"><span><img height="30" alt="facebook_freepik" src="https://user-images.githubusercontent.com/28492382/95009541-8260fd00-0640-11eb-9c3b-62c29152ed28.png" />&nbsp;</span></a>
 <a href="https://github.com/sb39"><span><img height="30" alt="github_freepik" src="https://user-images.githubusercontent.com/28492382/95009579-bdfbc700-0640-11eb-9e35-572c62a94062.png" />&nbsp;</span></a>
+</div>
